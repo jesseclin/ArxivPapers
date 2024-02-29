@@ -1,0 +1,17 @@
+openai 
+PyPDF2 
+spacy 
+tiktoken 
+pyperclip 
+google-cloud-texttospeech 
+pydrive2 
+pdflatex
+fitz
+pillow
+wget
+nltk
+torch 
+transformers 
+scikit-learn 
+thefuzz
+bs4
